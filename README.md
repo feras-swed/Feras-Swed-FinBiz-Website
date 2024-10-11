@@ -1,10 +1,10 @@
 ## Finbiz
 
-Made with ❤️ by [Feras](https://github.com/feras-swed)
+Made with  by [Feras](https://github.com/feras-swed)
 
 ## Live demo
 
-Live at:
+Live at: [fin-biz By vercel .com](https://feras-swed-fin-biz-website.vercel.app/)
 
 ## How to install
 
